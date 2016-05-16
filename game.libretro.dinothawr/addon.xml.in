@@ -7,11 +7,7 @@
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="game.libretro.dinothawr.so"
-                   library_linux="game.libretro.dinothawr.so"
-                   library_osx="game.libretro.dinothawr.dylib"
-                   library_windx="game.libretro.dinothawr.dll"
-                   library_wingl="game.libretro.dinothawr.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
 		<extensions></extensions>
 		<supports_vfs>true</supports_vfs>
@@ -20,6 +16,6 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Dinothawr v1.0.1</summary>
 		<description>Source: https://github.com/libretro/Dinothawr</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
