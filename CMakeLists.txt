@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.dinothawr)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(dinothawr
                     BUILD_IN_SOURCE 1)
 
 set(DINOTHAWR_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/dinothawr/src/dinothawr/dinothawr_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                            game.libretro.dinothawr${CMAKE_SHARED_LIBRARY_SUFFIX} dinothawr)
+                            ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.dinothawr DINOTHAWR DEPLIBS)
-add_dependencies(game.libretro.dinothawr dinothawr)
-
-include(CPack)
+build_addon(${PROJECT_NAME} DINOTHAWR DEPLIBS)
+add_dependencies(${PROJECT_NAME} dinothawr)
