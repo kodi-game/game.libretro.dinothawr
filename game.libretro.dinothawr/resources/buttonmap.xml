@@ -8,11 +8,11 @@
   -->
   <controller id="game.controller.default" type="RETRO_DEVICE_JOYPAD">
     <!-- Menu -->
-    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
+    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
     <!-- Push -->
-    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
     <!-- Reset -->
-    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
     <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
     <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
