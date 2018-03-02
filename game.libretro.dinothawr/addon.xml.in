@@ -14,8 +14,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Dinothawr v1.0</summary>
-		<description>Dinothawr is a block-pushing puzzle game on slippery surfaces. It is your task to free the dinosaur hero&#39;s friends from their ice prison.
+		<summary lang="en_GB">Dinothawr v1.0</summary>
+		<description lang="en_GB">Dinothawr is a block-pushing puzzle game on slippery surfaces. It is your task to free the dinosaur hero&#39;s friends from their ice prison.
 
 Supported files: .game</description>
 		<license>Non-commercial</license>
