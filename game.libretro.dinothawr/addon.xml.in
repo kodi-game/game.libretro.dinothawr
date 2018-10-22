@@ -20,6 +20,7 @@
 Supported files: .game</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.dinothawr</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
