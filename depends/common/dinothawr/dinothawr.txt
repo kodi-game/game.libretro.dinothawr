@@ -1,1 +1,1 @@
-dinothawr https://github.com/libretro/Dinothawr/archive/7794da5cc170b969c214b869f1d8cd3393e0a3cb.zip
+dinothawr https://github.com/libretro/Dinothawr/archive/2b36dc9be44e96a30d6c30eed2ad5b3dde0a3eda.zip
