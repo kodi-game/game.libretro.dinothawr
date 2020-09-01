@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.dinothawr"
 		name="Dinothawr"
-		version="1.0.0.8"
-		provider-name="Libretro">
+		version="1.0.0.9"
+		provider-name="Themaister, Agnes Heyer">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
