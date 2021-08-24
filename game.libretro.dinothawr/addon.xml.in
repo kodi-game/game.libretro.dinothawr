@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Dinothawr v1.0</summary>
-		<description lang="en_GB">Dinothawr is a block-pushing puzzle game on slippery surfaces.[CR][CR]It is your task to free the dinosaur hero&#39;s friends from their ice prison.</description>
+		<description lang="en_GB">Dinothawr is a block-pushing puzzle game on slippery surfaces. It is your task to free the dinosaur hero&#39;s friends from their ice prison.[CR][CR]Supported files: .game</description>
 	</extension>
 </addon>
