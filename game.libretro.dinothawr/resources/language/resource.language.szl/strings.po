@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
 
+msgctxt "Addon Summary"
+msgid "Dinothawr v1.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Dinothawr is a block-pushing puzzle game on slippery surfaces. It is your task to free the dinosaur hero&#39;s friends from their ice prison.
+
+Supported files: .game"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
