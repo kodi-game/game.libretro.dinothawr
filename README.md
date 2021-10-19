@@ -4,11 +4,13 @@
 # Dinothawr
 
 ### Description
+
 Dinothawr is a block-pushing puzzle game on slippery surfaces.
 
 It is your task to free the dinosaur hero's friends from their ice prison.
 
 ### License
+
 Non-commercial
 
 ### Icon
@@ -22,9 +24,5 @@ Non-commercial
 ### Screenshots
 
 ![Screenshot](game.libretro.dinothawr/resources/screenshot-01.jpg)
-
 ![Screenshot](game.libretro.dinothawr/resources/screenshot-02.jpg)
-
 ![Screenshot](game.libretro.dinothawr/resources/screenshot-03.jpg)
-
-
