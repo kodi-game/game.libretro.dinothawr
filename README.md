@@ -7,7 +7,7 @@
 
 Dinothawr is a block-pushing puzzle game on slippery surfaces.
 
-It is your task to free the dinosaur hero&apos;s friends from their ice prison.
+It is your task to free the dinosaur hero's friends from their ice prison.
 
 ### License
 
