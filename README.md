@@ -15,14 +15,14 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.dinothawr/resources/icon.png)
+![Dinothawr icon](game.libretro.dinothawr/resources/icon.png)
 
 ### Fanart
 
-![Fanart](game.libretro.dinothawr/resources/fanart.jpg)
+![Dinothawr fanart](game.libretro.dinothawr/resources/fanart.jpg)
 
 ### Screenshots
 
-![Screenshot](game.libretro.dinothawr/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.dinothawr/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.dinothawr/resources/screenshot-03.jpg)
+![Dinothawr screenshot](game.libretro.dinothawr/resources/screenshot-01.jpg)
+![Dinothawr screenshot](game.libretro.dinothawr/resources/screenshot-02.jpg)
+![Dinothawr screenshot](game.libretro.dinothawr/resources/screenshot-03.jpg)
