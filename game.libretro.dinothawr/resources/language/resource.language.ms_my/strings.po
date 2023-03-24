@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Dinothawr v1.0"
+msgid "Dinothawr"
 msgstr ""
 
 msgctxt "Addon Description"
