@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.dinothawr.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.dinothawr)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.dinothawr?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-dinothawr)
-
 # Dinothawr
 
 ### Description
