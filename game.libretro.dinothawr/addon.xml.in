@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Dinothawr</summary>
 		<summary lang="en_GB">Dinothawr</summary>
 		<summary lang="es_ES">Dinothawr</summary>
 		<description lang="da_DK">Dinothawr er et blokskubbende puslespil på glatte overflader.[CR][CR]Det er din opgave at befri dinosaurheltens venner fra deres isfængsel.</description>
