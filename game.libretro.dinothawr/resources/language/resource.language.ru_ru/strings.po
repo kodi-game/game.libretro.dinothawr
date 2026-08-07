@@ -25,9 +25,14 @@ msgctxt "Addon Description"
 msgid "Dinothawr is a block-pushing puzzle game on slippery surfaces.[CR][CR]It is your task to free the dinosaur hero's friends from their ice prison."
 msgstr "Dinothawr — игра-головоломка, в которой вам предстоит толкать блоки на скользких поверхностях.[CR][CR]Ваша задача — освободить друзей героя-динозавра из ледяной тюрьмы."
 
-msgctxt "#30001"
-msgid "Timer as FPS reference"
-msgstr "Таймер как показатель FPS"
+# Empty string with ID 30000
+msgctxt "#30002"
+msgid "Frame rate"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Timer as FPS reference"
+#~ msgstr "Таймер как показатель FPS"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
