@@ -26,6 +26,6 @@ msgstr ""
 
 # Empty string with ID 30000
 
-msgctxt "#30001"
-msgid "Timer as FPS reference"
+msgctxt "#30002"
+msgid "Frame rate"
 msgstr ""

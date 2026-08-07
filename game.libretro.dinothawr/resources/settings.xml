@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="128">
-		<setting label="30001" type="select" id="dino_timer" values="enabled|disabled" default="enabled"/>
+		<setting label="30002" type="select" id="dino_framerate" values="Auto|50|60|72|75|90|100|119|120|144|240" default="Auto"/>
 	</category>
 </settings>
