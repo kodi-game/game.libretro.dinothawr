@@ -30,6 +30,46 @@ msgctxt "#30002"
 msgid "Frame rate"
 msgstr ""
 
+msgctxt "#30003"
+msgid "50"
+msgstr ""
+
+msgctxt "#30004"
+msgid "60"
+msgstr ""
+
+msgctxt "#30005"
+msgid "72"
+msgstr ""
+
+msgctxt "#30006"
+msgid "75"
+msgstr ""
+
+msgctxt "#30007"
+msgid "90"
+msgstr ""
+
+msgctxt "#30008"
+msgid "100"
+msgstr ""
+
+msgctxt "#30009"
+msgid "119"
+msgstr ""
+
+msgctxt "#30010"
+msgid "120"
+msgstr ""
+
+msgctxt "#30011"
+msgid "144"
+msgstr ""
+
+msgctxt "#30012"
+msgid "240"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Paramètres"
