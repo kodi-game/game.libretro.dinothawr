@@ -8,17 +8,17 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>50</option>
-							<option>60</option>
-							<option>72</option>
-							<option>75</option>
-							<option>90</option>
-							<option>100</option>
-							<option>119</option>
-							<option>120</option>
-							<option>144</option>
-							<option>240</option>
+							<option label="16316">Auto</option>
+							<option label="30003">50</option>
+							<option label="30004">60</option>
+							<option label="30005">72</option>
+							<option label="30006">75</option>
+							<option label="30007">90</option>
+							<option label="30008">100</option>
+							<option label="30009">119</option>
+							<option label="30010">120</option>
+							<option label="30011">144</option>
+							<option label="30012">240</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
